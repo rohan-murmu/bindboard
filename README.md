@@ -4,15 +4,6 @@ Bindboard is a real-time collaborative drawing application that allows multiple 
 
 ---
 
-## Live Demo
-
-Check out the live version of Bindboard here:  
-👉 [https://bindboard.rohanworks.com/](https://bindboard.rohanworks.com/)
-
-
----
-
-
 ## Features
 
 1. **Real-Time Collaborative Drawing**:
